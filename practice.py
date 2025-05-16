@@ -5,7 +5,7 @@ import time
 
 #Q2: Print even numbers from 2 to 20.
 # for i in range(2,21,2):
-#     print(i)
+    print(i)
 
 #Q3: Print each character of a string "Python"
 # for char in "Python":
