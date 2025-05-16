@@ -35,9 +35,9 @@
 
 
 # Q.5.Write a Python program to remove all duplicate elements from a given list and print the unique values.
-numbers=[10,20,20,30,40,40,10,50]
-unique_list=[]
-for num in numbers:
-    if num not in unique_list:
-        unique_list.append(num)
-        print("List after removing duplicates:",unique_list)
+# numbers=[10,20,20,30,40,40,10,50]
+# unique_list=[]
+# for num in numbers:
+#     if num not in unique_list:
+#         unique_list.append(num)
+#         print("List after removing duplicates:",unique_list)
